@@ -1,2 +1,5 @@
 # DDC-Comms-Intro
-Slides for our very first planning Comms meeting - Digital Drone Collective - Cohort 2 - Transport Canada
+
+Slide deck for our very first Comms planning meeting as a team. 
+
+Built with ![big](https://github.com/tmcw/big) - a ridiculous presentation system that works great for creative, hurried people.
