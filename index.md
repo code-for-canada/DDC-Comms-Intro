@@ -128,13 +128,13 @@
 ![](images/other-countdown.png)
 
 ---
-### *Activity!*
+### *Feedback?*
 
+## Test Newsletter
+https://app.mailerlite.com/i3f5o1
 
-
----
-## Feedback?
-https://preview.mailerlite.com/i3f5o1
+## Components
+http://bit.ly/ddc-nwslttr-01-feedback
 
 ---
 <div class="alt-slide">
