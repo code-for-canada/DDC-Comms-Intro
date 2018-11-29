@@ -1,5 +1,7 @@
-# DDC-Comms-Intro
+Code for Canada Fellowship | Cohort 2 | Transport Canada
 
-Slide deck for our very first Comms planning meeting as a team. 
+[Digital Drone Collective](http://digitaldronecollective.com)
 
-Built with  [Big](https://github.com/tmcw/big "presentations for busy messy hackers")- a ridiculous presentation system that works great for creative, hurried people.
+This is the slide deck for our very first Comms planning meeting as a team. It focuses on our plans for our tumblr & newsletter components. 
+
+Deck was built with [Big - presentations for busy messy hackers](https://github.com/tmcw/big "presentations for busy messy hackers"). 
