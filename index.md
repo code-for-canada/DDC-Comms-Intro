@@ -156,20 +156,20 @@ Components
 
 ## We need a *schedule* 
 
-1. Plan -> Sprint planning
+1. Plan -> Fridays/Sprint planning
 2. Write -> 1 week
 3. Build -> 2 days
-4. Review -> 2 days
-5. Send -> Monday of new sprint
+4. Review -> 3 days
+5. Send -> Tuesdays of new sprint
 
 ---
 
 ## For example *Sprint 2*
 
-- Planning *Nov 30*
+- Planning *Nov 28*
 - Writing due: *Dec 10*
-- Review period: *Dec 12-14*
-- Send: *Dec 17*
+- Review period: *Dec 12-14 + 17*
+- Send: *Dec 18*
 
 ---
 <div class="alt-slide">
